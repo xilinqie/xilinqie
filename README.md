@@ -1,6 +1,6 @@
 # Hi, I'm @xilinqie
 
-Artificial Intelligence student with a professional focus on Deep Learning. 
+Artificial Intelligence student with a professional focus on Deep Learning, especially in the GNN (financial field). 
 
 I work primarily in Python and C++, and enjoy turning theory into robust implementations.
 
