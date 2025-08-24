@@ -4,6 +4,10 @@ Artificial Intelligence student with a professional focus on Deep Learning, espe
 
 I work primarily in Python and C++, and enjoy turning theory into robust implementations.
 
+**Tongji University CEIC**
+
+![](https://komarev.com/ghpvc/?username=xilinqie&label=PROFILE+VIEWS)
+
 ## Highlights & Stats
 
 <div align="center">
