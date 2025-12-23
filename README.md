@@ -1,30 +1,14 @@
 # Hi, I'm @xilinqie
 
-Artificial Intelligence student with a professional focus on Deep Learning, especially in the GNN (financial field). 
+I am currently a undergraduate student majoring in Computer Science and Technology at Tongji University. I also took a minor in Finance at Fudan University. My current research focus is on graph neural networks and large models.
 
-I work primarily in Python and C++, and enjoy turning theory into robust implementations.
-
-**Tongji University CEIC**
+The programming languages that I am most familiar with are Python, C++ and Swift.
 
 ![](https://komarev.com/ghpvc/?username=xilinqie&label=PROFILE+VIEWS)
 
 ## Highlights & Stats
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xilinqie&show_icons=true&theme=tokyonight&count_private=true"
-    alt="GitHub Stats for xilinqie"
-    style="width: 49%; height: 200px"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xilinqie&theme=tokyonight&layout=compact"
-    alt="Top Languages for xilinqie"
-    style="width: 49%; height: 200px"
-  />
 
   <!-- Activity Graph -->
   <img
